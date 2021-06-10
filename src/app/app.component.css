@@ -1,0 +1,10 @@
+.red{
+    font-size: larger;
+    text-align: center;
+    color: red;
+}
+
+.red .p {
+    font-size: smaller;
+    text-align: left;
+}
